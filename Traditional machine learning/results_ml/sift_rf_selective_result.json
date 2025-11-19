@@ -1,0 +1,7 @@
+{
+  "mAP@0.5": 0.038,
+  "avg_inference_time(s)": 6.0379,
+  "total_images": 546,
+  "total_time(s)": 3296.69,
+  "FPS": 0.17
+}
